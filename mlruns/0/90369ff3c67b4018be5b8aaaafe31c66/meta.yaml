@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/angelakim/mlflow-demo/mlruns/0/90369ff3c67b4018be5b8aaaafe31c66/artifacts
+end_time: 1687208666407
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 90369ff3c67b4018be5b8aaaafe31c66
+run_name: stylish-croc-970
+run_uuid: 90369ff3c67b4018be5b8aaaafe31c66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687208663398
+status: 3
+tags: []
+user_id: angelakim
