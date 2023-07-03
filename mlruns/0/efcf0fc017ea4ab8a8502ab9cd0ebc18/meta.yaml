@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/angelakim/mlflow-demo/mlruns/0/efcf0fc017ea4ab8a8502ab9cd0ebc18/artifacts
+end_time: 1687647798147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: efcf0fc017ea4ab8a8502ab9cd0ebc18
+run_name: adventurous-gnat-795
+run_uuid: efcf0fc017ea4ab8a8502ab9cd0ebc18
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687647794775
+status: 3
+tags: []
+user_id: angelakim

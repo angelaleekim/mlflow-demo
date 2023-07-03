@@ -1,0 +1,9 @@
+digest: 9e52662f
+name: dataset
+profile: '{"features_shape": [111, 10], "features_size": 1110, "features_nbytes":
+  8880}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float64\", \"shape\": [-1, 10]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "angelakim", "mlflow.source.name": "/Users/angelakim/Library/Python/3.8/lib/python/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL", "mlflow.source.git.commit": "711965a8070bfa98a2b4b87ec551364c4eb9a5ac"}}'
+source_type: code
