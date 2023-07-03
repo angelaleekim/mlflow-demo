@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/angelakim/mlflow-demo/mlruns/0/ccfc1e3446324aeb951c9530cda30433/artifacts
+end_time: 1688357756699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ccfc1e3446324aeb951c9530cda30433
+run_name: amazing-zebra-350
+run_uuid: ccfc1e3446324aeb951c9530cda30433
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688357751155
+status: 3
+tags: []
+user_id: angelakim
